@@ -23,3 +23,17 @@
 .stats {
     font-size: 20px;
 }
+
+
+@media screen and (max-width: 640px) {
+
+    .buttons button {
+        font-size: 27px;
+    }
+
+    #add-city {
+        font-size: 10px;
+    }
+
+
+}
